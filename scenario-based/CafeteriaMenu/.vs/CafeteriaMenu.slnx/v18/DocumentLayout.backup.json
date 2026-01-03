@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\CafeteriaMenu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D94D5C2D-E5D7-BE68-0005-E6EC4ABF1CFE}|CafeteriaMenu\\CafeteriaMenu.csproj|c:\\users\\gaurav\\desktop\\bridgelabz-training\\scenario-based\\cafeteriamenu\\cafeteriamenu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D94D5C2D-E5D7-BE68-0005-E6EC4ABF1CFE}|CafeteriaMenu\\CafeteriaMenu.csproj|solutionrelative:cafeteriamenu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94D5C2D-E5D7-BE68-0005-E6EC4ABF1CFE}|CafeteriaMenu\\CafeteriaMenu.csproj|c:\\users\\gaurav\\desktop\\bridgelabz-training\\scenario-based\\cafeteriamenu\\cafeteriamenu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D94D5C2D-E5D7-BE68-0005-E6EC4ABF1CFE}|CafeteriaMenu\\CafeteriaMenu.csproj|solutionrelative:cafeteriamenu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94D5C2D-E5D7-BE68-0005-E6EC4ABF1CFE}|CafeteriaMenu\\CafeteriaMenu.csproj|c:\\users\\gaurav\\desktop\\bridgelabz-training\\scenario-based\\cafeteriamenu\\cafeteriamenu\\fooditems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D94D5C2D-E5D7-BE68-0005-E6EC4ABF1CFE}|CafeteriaMenu\\CafeteriaMenu.csproj|solutionrelative:cafeteriamenu\\fooditems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94D5C2D-E5D7-BE68-0005-E6EC4ABF1CFE}|CafeteriaMenu\\CafeteriaMenu.csproj|c:\\users\\gaurav\\desktop\\bridgelabz-training\\scenario-based\\cafeteriamenu\\cafeteriamenu\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D94D5C2D-E5D7-BE68-0005-E6EC4ABF1CFE}|CafeteriaMenu\\CafeteriaMenu.csproj|solutionrelative:cafeteriamenu\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\CafeteriaMenu\\CafeteriaMenu\\OrderItem.cs",
+              "RelativeDocumentMoniker": "CafeteriaMenu\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\CafeteriaMenu\\CafeteriaMenu\\OrderItem.cs",
+              "RelativeToolTip": "CafeteriaMenu\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T06:10:27.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FoodItems.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\CafeteriaMenu\\CafeteriaMenu\\FoodItems.cs",
+              "RelativeDocumentMoniker": "CafeteriaMenu\\FoodItems.cs",
+              "ToolTip": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\CafeteriaMenu\\CafeteriaMenu\\FoodItems.cs",
+              "RelativeToolTip": "CafeteriaMenu\\FoodItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T05:20:31.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\CafeteriaMenu\\CafeteriaMenu\\Menu.cs",
+              "RelativeDocumentMoniker": "CafeteriaMenu\\Menu.cs",
+              "ToolTip": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\CafeteriaMenu\\CafeteriaMenu\\Menu.cs*",
+              "RelativeToolTip": "CafeteriaMenu\\Menu.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T09:19:35.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\CafeteriaMenu\\CafeteriaMenu\\Program.cs",
+              "RelativeDocumentMoniker": "CafeteriaMenu\\Program.cs",
+              "ToolTip": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\CafeteriaMenu\\CafeteriaMenu\\Program.cs",
+              "RelativeToolTip": "CafeteriaMenu\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T09:17:04.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

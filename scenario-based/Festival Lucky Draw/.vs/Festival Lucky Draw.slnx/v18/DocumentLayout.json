@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\Festival Lucky Draw\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{609E2D27-A678-4436-A428-56EABDB2A019}|Festival Lucky Draw\\Festival Lucky Draw.csproj|c:\\users\\gaurav\\desktop\\bridgelabz-training\\scenario-based\\festival lucky draw\\festival lucky draw\\luckydraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{609E2D27-A678-4436-A428-56EABDB2A019}|Festival Lucky Draw\\Festival Lucky Draw.csproj|solutionrelative:festival lucky draw\\luckydraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609E2D27-A678-4436-A428-56EABDB2A019}|Festival Lucky Draw\\Festival Lucky Draw.csproj|c:\\users\\gaurav\\desktop\\bridgelabz-training\\scenario-based\\festival lucky draw\\festival lucky draw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{609E2D27-A678-4436-A428-56EABDB2A019}|Festival Lucky Draw\\Festival Lucky Draw.csproj|solutionrelative:festival lucky draw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LuckyDraw.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\Festival Lucky Draw\\Festival Lucky Draw\\LuckyDraw.cs",
+              "RelativeDocumentMoniker": "Festival Lucky Draw\\LuckyDraw.cs",
+              "ToolTip": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\Festival Lucky Draw\\Festival Lucky Draw\\LuckyDraw.cs",
+              "RelativeToolTip": "Festival Lucky Draw\\LuckyDraw.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T09:13:56.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\Festival Lucky Draw\\Festival Lucky Draw\\Program.cs",
+              "RelativeDocumentMoniker": "Festival Lucky Draw\\Program.cs",
+              "ToolTip": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\Festival Lucky Draw\\Festival Lucky Draw\\Program.cs",
+              "RelativeToolTip": "Festival Lucky Draw\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T09:12:25.343Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
