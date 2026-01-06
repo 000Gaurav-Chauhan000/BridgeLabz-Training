@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\BirdSanctuary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36236FC0-67A3-1636-FA22-E776A3CA1CFE}|BirdSanctuary\\BirdSanctuary.csproj|c:\\users\\gaurav\\desktop\\bridgelabz-training\\scenario-based\\birdsanctuary\\birdsanctuary\\runapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36236FC0-67A3-1636-FA22-E776A3CA1CFE}|BirdSanctuary\\BirdSanctuary.csproj|solutionrelative:birdsanctuary\\runapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36236FC0-67A3-1636-FA22-E776A3CA1CFE}|BirdSanctuary\\BirdSanctuary.csproj|c:\\users\\gaurav\\desktop\\bridgelabz-training\\scenario-based\\birdsanctuary\\birdsanctuary\\seagull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36236FC0-67A3-1636-FA22-E776A3CA1CFE}|BirdSanctuary\\BirdSanctuary.csproj|solutionrelative:birdsanctuary\\seagull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36236FC0-67A3-1636-FA22-E776A3CA1CFE}|BirdSanctuary\\BirdSanctuary.csproj|c:\\users\\gaurav\\desktop\\bridgelabz-training\\scenario-based\\birdsanctuary\\birdsanctuary\\iswimmable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36236FC0-67A3-1636-FA22-E776A3CA1CFE}|BirdSanctuary\\BirdSanctuary.csproj|solutionrelative:birdsanctuary\\iswimmable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36236FC0-67A3-1636-FA22-E776A3CA1CFE}|BirdSanctuary\\BirdSanctuary.csproj|c:\\users\\gaurav\\desktop\\bridgelabz-training\\scenario-based\\birdsanctuary\\birdsanctuary\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36236FC0-67A3-1636-FA22-E776A3CA1CFE}|BirdSanctuary\\BirdSanctuary.csproj|solutionrelative:birdsanctuary\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36236FC0-67A3-1636-FA22-E776A3CA1CFE}|BirdSanctuary\\BirdSanctuary.csproj|c:\\users\\gaurav\\desktop\\bridgelabz-training\\scenario-based\\birdsanctuary\\birdsanctuary\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36236FC0-67A3-1636-FA22-E776A3CA1CFE}|BirdSanctuary\\BirdSanctuary.csproj|solutionrelative:birdsanctuary\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36236FC0-67A3-1636-FA22-E776A3CA1CFE}|BirdSanctuary\\BirdSanctuary.csproj|c:\\users\\gaurav\\desktop\\bridgelabz-training\\scenario-based\\birdsanctuary\\birdsanctuary\\iflyable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36236FC0-67A3-1636-FA22-E776A3CA1CFE}|BirdSanctuary\\BirdSanctuary.csproj|solutionrelative:birdsanctuary\\iflyable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36236FC0-67A3-1636-FA22-E776A3CA1CFE}|BirdSanctuary\\BirdSanctuary.csproj|c:\\users\\gaurav\\desktop\\bridgelabz-training\\scenario-based\\birdsanctuary\\birdsanctuary\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36236FC0-67A3-1636-FA22-E776A3CA1CFE}|BirdSanctuary\\BirdSanctuary.csproj|solutionrelative:birdsanctuary\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36236FC0-67A3-1636-FA22-E776A3CA1CFE}|BirdSanctuary\\BirdSanctuary.csproj|c:\\users\\gaurav\\desktop\\bridgelabz-training\\scenario-based\\birdsanctuary\\birdsanctuary\\sparrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36236FC0-67A3-1636-FA22-E776A3CA1CFE}|BirdSanctuary\\BirdSanctuary.csproj|solutionrelative:birdsanctuary\\sparrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36236FC0-67A3-1636-FA22-E776A3CA1CFE}|BirdSanctuary\\BirdSanctuary.csproj|c:\\users\\gaurav\\desktop\\bridgelabz-training\\scenario-based\\birdsanctuary\\birdsanctuary\\penguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36236FC0-67A3-1636-FA22-E776A3CA1CFE}|BirdSanctuary\\BirdSanctuary.csproj|solutionrelative:birdsanctuary\\penguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36236FC0-67A3-1636-FA22-E776A3CA1CFE}|BirdSanctuary\\BirdSanctuary.csproj|c:\\users\\gaurav\\desktop\\bridgelabz-training\\scenario-based\\birdsanctuary\\birdsanctuary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36236FC0-67A3-1636-FA22-E776A3CA1CFE}|BirdSanctuary\\BirdSanctuary.csproj|solutionrelative:birdsanctuary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\BirdSanctuary\\BirdSanctuary\\Bird.cs",
+              "RelativeDocumentMoniker": "BirdSanctuary\\Bird.cs",
+              "ToolTip": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\BirdSanctuary\\BirdSanctuary\\Bird.cs",
+              "RelativeToolTip": "BirdSanctuary\\Bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T07:20:43.823Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Seagull.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\BirdSanctuary\\BirdSanctuary\\Seagull.cs",
+              "RelativeDocumentMoniker": "BirdSanctuary\\Seagull.cs",
+              "ToolTip": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\BirdSanctuary\\BirdSanctuary\\Seagull.cs",
+              "RelativeToolTip": "BirdSanctuary\\Seagull.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T09:44:36.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Penguin.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\BirdSanctuary\\BirdSanctuary\\Penguin.cs",
+              "RelativeDocumentMoniker": "BirdSanctuary\\Penguin.cs",
+              "ToolTip": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\BirdSanctuary\\BirdSanctuary\\Penguin.cs",
+              "RelativeToolTip": "BirdSanctuary\\Penguin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T09:43:12.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sparrow.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\BirdSanctuary\\BirdSanctuary\\Sparrow.cs",
+              "RelativeDocumentMoniker": "BirdSanctuary\\Sparrow.cs",
+              "ToolTip": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\BirdSanctuary\\BirdSanctuary\\Sparrow.cs",
+              "RelativeToolTip": "BirdSanctuary\\Sparrow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T09:41:56.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Eagle.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\BirdSanctuary\\BirdSanctuary\\Eagle.cs",
+              "RelativeDocumentMoniker": "BirdSanctuary\\Eagle.cs",
+              "ToolTip": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\BirdSanctuary\\BirdSanctuary\\Eagle.cs",
+              "RelativeToolTip": "BirdSanctuary\\Eagle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T09:36:32.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Duck.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\BirdSanctuary\\BirdSanctuary\\Duck.cs",
+              "RelativeDocumentMoniker": "BirdSanctuary\\Duck.cs",
+              "ToolTip": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\BirdSanctuary\\BirdSanctuary\\Duck.cs",
+              "RelativeToolTip": "BirdSanctuary\\Duck.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T09:28:43.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISwimmable.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\BirdSanctuary\\BirdSanctuary\\ISwimmable.cs",
+              "RelativeDocumentMoniker": "BirdSanctuary\\ISwimmable.cs",
+              "ToolTip": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\BirdSanctuary\\BirdSanctuary\\ISwimmable.cs",
+              "RelativeToolTip": "BirdSanctuary\\ISwimmable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T09:21:26.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFlyable.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\BirdSanctuary\\BirdSanctuary\\IFlyable.cs",
+              "RelativeDocumentMoniker": "BirdSanctuary\\IFlyable.cs",
+              "ToolTip": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\BirdSanctuary\\BirdSanctuary\\IFlyable.cs",
+              "RelativeToolTip": "BirdSanctuary\\IFlyable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T09:21:07.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RunApplication.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\BirdSanctuary\\BirdSanctuary\\RunApplication.cs",
+              "RelativeDocumentMoniker": "BirdSanctuary\\RunApplication.cs",
+              "ToolTip": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\BirdSanctuary\\BirdSanctuary\\RunApplication.cs*",
+              "RelativeToolTip": "BirdSanctuary\\RunApplication.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T07:19:24.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\BirdSanctuary\\BirdSanctuary\\Program.cs",
+              "RelativeDocumentMoniker": "BirdSanctuary\\Program.cs",
+              "ToolTip": "C:\\Users\\gaurav\\Desktop\\BridgeLabz-Training\\scenario-based\\BirdSanctuary\\BirdSanctuary\\Program.cs",
+              "RelativeToolTip": "BirdSanctuary\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T07:17:24.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
