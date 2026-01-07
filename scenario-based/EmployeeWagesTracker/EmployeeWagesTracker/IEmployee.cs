@@ -7,7 +7,8 @@ namespace EmployeeWagesTracker{
         void CalculateDailyWage();
         void ShowAttendence();
 
-        
+
+        public void CalculateMonthlyWage();
 
 
     }

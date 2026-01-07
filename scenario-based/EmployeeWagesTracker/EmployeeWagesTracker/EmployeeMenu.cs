@@ -23,6 +23,7 @@ namespace EmployeeWagesTracker
                 Console.WriteLine("2. Mark Attendance");
                 Console.WriteLine("3. Calculate Daily Wage");
                 Console.WriteLine("4. Show Attendance");
+                Console.WriteLine("5. Calculate Monthly Wage");
                 Console.WriteLine("0. Exit");
 
                 Console.Write("Enter your choice: ");

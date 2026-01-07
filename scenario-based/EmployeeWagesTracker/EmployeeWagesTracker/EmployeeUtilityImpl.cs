@@ -75,5 +75,26 @@ namespace EmployeeWagesTracker{
                 }
             }
         }
+
+        const int WorkingDaysPerMonth = 20;
+
+        public void CalculateMonthlyWage()
+        {
+            if (count == 0)
+            {
+                Console.WriteLine("No employees available.");
+                return;
+            }
+
+            foreach (var emp in employees)
+            {
+                if (emp == null) continue;
+
+                emp.MonthlyWage = emp.DailyWage * WorkingDaysPerMonth;
+            }
+
+            Console.WriteLine("Monthly wage calculated successfully.");
+        }
+
     }
 }

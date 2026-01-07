@@ -11,6 +11,8 @@ namespace EmployeeWagesTracker
         public int AttendanceType { get; set; }
 
         public int DailyWage { get; set; }
+        public int MonthlyWage { get; set; }
+
 
         public override string ToString()
         {
