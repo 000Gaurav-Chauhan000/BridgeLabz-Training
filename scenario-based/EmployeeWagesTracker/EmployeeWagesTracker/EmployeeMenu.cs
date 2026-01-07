@@ -12,6 +12,7 @@ namespace EmployeeWagesTracker{
             IEmp = new EmployeeUtilityImpl();
             IEmp.AddEmployee(); 
             IEmp.MarkAttendence();
+            IEmp.CalculateDailyWage();
             IEmp.ShowAttendence();
         }
     }

@@ -7,11 +7,21 @@ namespace EmployeeWagesTracker
         public int Id { get; set; }
         public string Name { get; set; }
         public double Salary { get; set; }
-        public bool IsPresent { get; set; }
+
+        public int AttendanceType { get; set; }
+
+        public int DailyWage { get; set; }
 
         public override string ToString()
         {
-            return $"Name: {Name}, Id: {Id}, Salary: {Salary}, IsPresent : {IsPresent}";
+            string status = AttendanceType switch
+            {
+                1 => "Full Time",
+                2 => "Part Time",
+                _ => "Absent"
+            };
+
+            return $"Id: {Id}, Name: {Name}, Status: {status}, Daily Wage: {DailyWage}";
         }
     }
 }
