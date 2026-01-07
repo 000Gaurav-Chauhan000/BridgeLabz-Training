@@ -96,5 +96,55 @@ namespace EmployeeWagesTracker{
             Console.WriteLine("Monthly wage calculated successfully.");
         }
 
+        const int MaxWorkingDays = 20;
+        const int MaxWorkingHours = 100;
+
+        public void CalculateMonthlyWageWithCondition()
+        {
+            if (count == 0)
+            {
+                Console.WriteLine("No employees available.");
+                return;
+            }
+
+            Random random = new Random();
+
+            for (int i = 0; i < count; i++)
+            {
+                int totalDays = 0;
+                int totalHours = 0;
+                int totalWage = 0;
+
+                while (totalDays < MaxWorkingDays && totalHours < MaxWorkingHours)
+                {
+                    int attendance = random.Next(0, 3); 
+                    int hoursWorked = 0;
+
+                    switch (attendance)
+                    {
+                        case 1: 
+                            hoursWorked = FullDayHour;
+                            break;
+
+                        case 2: 
+                            hoursWorked = PartTimeHour;
+                            break;
+
+                        default: 
+                            hoursWorked = 0;
+                            break;
+                    }
+
+                    totalHours += hoursWorked;
+                    totalWage += hoursWorked * WagePerHour;
+                    totalDays++;
+                }
+
+                employees[i].MonthlyWage = totalWage;
+            }
+
+            Console.WriteLine("Monthly wage calculated with conditions.");
+        }
+
     }
 }

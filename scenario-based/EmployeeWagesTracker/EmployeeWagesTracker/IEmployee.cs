@@ -6,9 +6,8 @@ namespace EmployeeWagesTracker{
         void MarkAttendence();
         void CalculateDailyWage();
         void ShowAttendence();
-
-
-        public void CalculateMonthlyWage();
+        void CalculateMonthlyWage();
+        void CalculateMonthlyWageWithCondition();
 
 
     }
