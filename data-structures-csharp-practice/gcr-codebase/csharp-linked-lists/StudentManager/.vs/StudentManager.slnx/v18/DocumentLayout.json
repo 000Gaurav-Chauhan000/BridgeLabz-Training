@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gaurav\\Desktop\\VisualStudioProjects\\StudentManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{894A9B7B-AF83-275E-117A-A6BC0040563E}|StudentManager\\StudentManager.csproj|c:\\users\\gaurav\\desktop\\visualstudioprojects\\studentmanager\\studentmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894A9B7B-AF83-275E-117A-A6BC0040563E}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894A9B7B-AF83-275E-117A-A6BC0040563E}|StudentManager\\StudentManager.csproj|c:\\users\\gaurav\\desktop\\visualstudioprojects\\studentmanager\\studentmanager\\studentnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894A9B7B-AF83-275E-117A-A6BC0040563E}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\studentnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894A9B7B-AF83-275E-117A-A6BC0040563E}|StudentManager\\StudentManager.csproj|c:\\users\\gaurav\\desktop\\visualstudioprojects\\studentmanager\\studentmanager\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894A9B7B-AF83-275E-117A-A6BC0040563E}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894A9B7B-AF83-275E-117A-A6BC0040563E}|StudentManager\\StudentManager.csproj|c:\\users\\gaurav\\desktop\\visualstudioprojects\\studentmanager\\studentmanager\\istudentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894A9B7B-AF83-275E-117A-A6BC0040563E}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\istudentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894A9B7B-AF83-275E-117A-A6BC0040563E}|StudentManager\\StudentManager.csproj|c:\\users\\gaurav\\desktop\\visualstudioprojects\\studentmanager\\studentmanager\\studentlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894A9B7B-AF83-275E-117A-A6BC0040563E}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\studentlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav\\Desktop\\VisualStudioProjects\\StudentManager\\StudentManager\\StudentLinkedList.cs",
+              "RelativeDocumentMoniker": "StudentManager\\StudentLinkedList.cs",
+              "ToolTip": "C:\\Users\\gaurav\\Desktop\\VisualStudioProjects\\StudentManager\\StudentManager\\StudentLinkedList.cs",
+              "RelativeToolTip": "StudentManager\\StudentLinkedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T11:00:15.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudentList.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav\\Desktop\\VisualStudioProjects\\StudentManager\\StudentManager\\IStudentList.cs",
+              "RelativeDocumentMoniker": "StudentManager\\IStudentList.cs",
+              "ToolTip": "C:\\Users\\gaurav\\Desktop\\VisualStudioProjects\\StudentManager\\StudentManager\\IStudentList.cs",
+              "RelativeToolTip": "StudentManager\\IStudentList.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAApwA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T10:57:34.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudent.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav\\Desktop\\VisualStudioProjects\\StudentManager\\StudentManager\\IStudent.cs",
+              "RelativeDocumentMoniker": "StudentManager\\IStudent.cs",
+              "ToolTip": "C:\\Users\\gaurav\\Desktop\\VisualStudioProjects\\StudentManager\\StudentManager\\IStudent.cs",
+              "RelativeToolTip": "StudentManager\\IStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T10:56:57.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentNode.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav\\Desktop\\VisualStudioProjects\\StudentManager\\StudentManager\\StudentNode.cs",
+              "RelativeDocumentMoniker": "StudentManager\\StudentNode.cs",
+              "ToolTip": "C:\\Users\\gaurav\\Desktop\\VisualStudioProjects\\StudentManager\\StudentManager\\StudentNode.cs",
+              "RelativeToolTip": "StudentManager\\StudentNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:10:58.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav\\Desktop\\VisualStudioProjects\\StudentManager\\StudentManager\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManager\\Program.cs",
+              "ToolTip": "C:\\Users\\gaurav\\Desktop\\VisualStudioProjects\\StudentManager\\StudentManager\\Program.cs",
+              "RelativeToolTip": "StudentManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:47:44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
