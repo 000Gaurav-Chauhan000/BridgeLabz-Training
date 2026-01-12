@@ -161,3 +161,235 @@ Worked on edge-case handling and input validation
 Applied string concepts in real problem scenarios
 Improved logical reasoning and approach building
 Built confidence in handling real-world style questions
+
+**Date:** 30 December 2025
+
+### 🧩 Constructors in C# — Conceptual Understanding
+
+* Studied what constructors are and their purpose in C#
+* Understood how constructors are used to initialize objects at the moment of creation
+* Discussed the importance of constructors in object-oriented design principles
+
+### ⚙️ Characteristics of Constructors
+
+* Constructor name must match the class name
+* Constructors do not have a return type
+* Automatically executed when an object is instantiated
+* Primarily used to initialize instance-level data
+
+### 🧠 Categories of Constructors
+
+* Default constructor
+* Parameterized constructor
+* Copy constructor (conceptual overview)
+* Static constructor (introductory understanding)
+
+### 🔐 Access Modifiers in C#
+
+* Revised the concept of access modifiers and their role in encapsulation
+* Gained clarity on the usage of:
+
+  * `public`
+  * `private`
+  * `protected`
+  * `internal`
+* Learned how access modifiers manage visibility and safeguard data
+
+### ⚖️ Instance Members vs Class Members
+
+* Differentiated between instance variables and static (class-level) variables
+* Understood differences between instance methods and static methods
+* Learned appropriate use cases for each in real-world applications
+
+---
+
+## Day 10: Keywords & Object Behavior in C# 🔑
+
+**Date:** 31 December 2025
+
+### 🧠 The `this` Keyword
+
+* Learned how the `this` keyword refers to the current object instance
+* Used to distinguish instance variables from method or constructor parameters
+* Helpful for constructor chaining and improving code readability
+
+### ⚙️ Static Keyword in C#
+
+* Understood the purpose and behavior of the `static` keyword
+* Learned that static members belong to the class itself, not to individual objects
+
+#### 🔹 Static Variables
+
+* Shared among all instances of a class
+* Useful for storing common or global data
+
+#### 🔹 Static Methods
+
+* Can be called without creating an object
+* Can directly access only static members
+
+#### 🔹 Static Constructor
+
+* Executes only once during the entire program lifecycle
+* Used to initialize static data
+* Automatically invoked before any static member is accessed
+
+#### 🔹 Static Nested Class
+
+* Learned the concept of nested static classes
+* Used for better logical grouping and cleaner code organization
+
+### 🏁 Final Keyword
+
+* Understood the purpose of the `final` keyword at a conceptual level
+* Used to restrict modification of variables, methods, or classes
+* Helps enforce immutability and prevent inheritance where necessary
+
+### 🔍 `is` Operator
+
+* Learned how the `is` operator checks an object’s type at runtime
+* Commonly used for type checking and conditional logic
+
+---
+
+## Day 11: Classes, Objects & UML Basics 🧱
+
+**Date:** 01 January 2026
+
+### 🧠 Classes vs Objects in C#
+
+* Understood the distinction between classes and objects
+* Learned that a class acts as a blueprint, while objects are instances of that class
+* Discussed real-world examples to clearly differentiate the two
+* Reinforced how objects interact with class members during program execution
+
+### 📐 Introduction to UML Diagrams
+
+* Learned what UML (Unified Modeling Language) is
+* Understood how UML diagrams help visualize system design before implementation
+
+### 🧩 Class Diagram
+
+* Studied the structure and components of a class diagram
+* Learned representation of:
+
+  * Class name
+  * Attributes (variables)
+  * Methods (functions)
+* Understood how class diagrams support object-oriented system design
+
+### 🔄 Sequence Diagram
+
+* Introduced to sequence diagrams
+* Learned how they represent:
+
+  * Object interactions
+  * Method call flow
+  * Execution order over time
+
+---
+
+## Day 12: Inheritance & Polymorphism in C# 🧬
+
+**Date:** 02 January 2026
+
+### 🧩 Inheritance in C#
+
+* Learned how inheritance allows a class to acquire properties and behaviors of another class
+* Understood its importance in promoting code reuse and hierarchical design
+
+### 🔗 Forms of Inheritance
+
+* Single-level inheritance – one parent and one child class
+* Multilevel inheritance – inheritance across multiple levels
+* Hierarchical inheritance – multiple child classes inheriting from one parent class
+
+### ⚙️ Key Aspects of Inheritance
+
+* Encourages code reusability and extensibility
+* Supports scalable and maintainable application design
+* Enables method overriding and polymorphic behavior
+
+### 🔁 Method Overriding
+
+* Learned how derived classes can override base class methods
+* Understood the role of `virtual` and `override` keywords
+* Focused on modifying behavior at runtime
+
+### 🔄 Inheritance and Polymorphism
+
+* Explored the relationship between inheritance and polymorphism
+* Understood how the same method can behave differently based on the object type
+
+### 🔐 Access Modifiers with Inheritance
+
+* Learned how access modifiers affect member accessibility in derived classes
+* Understood which members are inherited and accessible
+
+---
+
+## Day 13: Encapsulation & Polymorphism in C# 🔐
+
+**Date:** 05 January 2026
+
+### 🧩 Encapsulation in C#
+
+* Learned what encapsulation is and why it is a core OOP principle
+* Understood how data and methods are bundled within a class
+* Discussed how access modifiers help achieve encapsulation
+
+### 🎯 Advantages of Encapsulation
+
+* Enhances data security by limiting direct access
+* Improves maintainability and flexibility of code
+* Encourages controlled interaction with class members
+
+### 🔄 Polymorphism in C#
+
+* Understood polymorphism as one interface with multiple implementations
+* Learned how polymorphism enables dynamic behavior at runtime
+
+### ⭐ Benefits of Polymorphism
+
+* Improves extensibility and scalability
+* Reduces code duplication
+* Enhances readability and design clarity
+
+### 🧠 Types of Polymorphism
+
+* Compile-time polymorphism (method overloading)
+* Runtime polymorphism (method overriding)
+
+---
+
+## Day 14: Abstraction, Interfaces & Data Structures Foundations 🧠
+
+**Date:** 07 January 2026
+
+### 🧩 Abstraction in C#
+
+* Learned the concept of abstraction and its role in hiding implementation details
+* Understood how abstraction focuses on *what* an object does rather than *how* it does it
+
+### 🏗️ Abstract Classes
+
+* Learned what abstract classes are and when to use them
+* Understood the purpose of abstract methods
+* Discussed how abstract classes can provide partial implementation
+
+### 🔌 Interfaces
+
+* Introduced to interfaces and their significance in C#
+* Learned how interfaces support multiple inheritance
+* Compared interfaces and abstract classes at a conceptual level
+
+### 📊 Introduction to Data Structures
+
+* Learned what data structures are and why they are essential
+* Understood how data structures help organize and access data efficiently
+
+### 🔗 Introduction to Linked List
+
+* Gained a basic understanding of the linked list data structure
+* Learned differences between arrays and linked lists
+* Understood the high-level concept of nodes and dynamic memory allocation
