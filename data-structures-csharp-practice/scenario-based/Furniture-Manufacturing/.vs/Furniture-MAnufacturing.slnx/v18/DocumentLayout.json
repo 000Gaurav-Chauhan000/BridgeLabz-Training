@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gaurav\\Desktop\\VisualStudioProjects\\Furniture-MAnufacturing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D17DBD8F-7FDD-41C1-B955-84C53921E4F9}|Furniture-MAnufacturing\\Furniture-MAnufacturing.csproj|c:\\users\\gaurav\\desktop\\visualstudioprojects\\furniture-manufacturing\\furniture-manufacturing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17DBD8F-7FDD-41C1-B955-84C53921E4F9}|Furniture-MAnufacturing\\Furniture-MAnufacturing.csproj|solutionrelative:furniture-manufacturing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17DBD8F-7FDD-41C1-B955-84C53921E4F9}|Furniture-MAnufacturing\\Furniture-MAnufacturing.csproj|c:\\users\\gaurav\\desktop\\visualstudioprojects\\furniture-manufacturing\\furniture-manufacturing\\furniturerodcutting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17DBD8F-7FDD-41C1-B955-84C53921E4F9}|Furniture-MAnufacturing\\Furniture-MAnufacturing.csproj|solutionrelative:furniture-manufacturing\\furniturerodcutting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FurnitureRodCutting.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav\\Desktop\\VisualStudioProjects\\Furniture-MAnufacturing\\Furniture-MAnufacturing\\FurnitureRodCutting.cs",
+              "RelativeDocumentMoniker": "Furniture-MAnufacturing\\FurnitureRodCutting.cs",
+              "ToolTip": "C:\\Users\\gaurav\\Desktop\\VisualStudioProjects\\Furniture-MAnufacturing\\Furniture-MAnufacturing\\FurnitureRodCutting.cs",
+              "RelativeToolTip": "Furniture-MAnufacturing\\FurnitureRodCutting.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T10:14:37.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gaurav\\Desktop\\VisualStudioProjects\\Furniture-MAnufacturing\\Furniture-MAnufacturing\\Program.cs",
+              "RelativeDocumentMoniker": "Furniture-MAnufacturing\\Program.cs",
+              "ToolTip": "C:\\Users\\gaurav\\Desktop\\VisualStudioProjects\\Furniture-MAnufacturing\\Furniture-MAnufacturing\\Program.cs",
+              "RelativeToolTip": "Furniture-MAnufacturing\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T09:57:07.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
