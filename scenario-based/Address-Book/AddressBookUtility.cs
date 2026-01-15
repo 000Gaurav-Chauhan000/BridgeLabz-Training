@@ -115,5 +115,15 @@ namespace Address_Book
 
             Console.WriteLine("Contact deleted successfully.");
         }
+        public void AddMultiplePersons()
+        {
+            
+            Console.WriteLine("Enter the number of Persons to add at a time : ");
+            int numberOfPersons = Convert.ToInt16(Console.ReadLine());
+
+            for (int  i = 0; i < numberOfPersons; i++){
+                AddContact();
+            }
+        }
     }
 }

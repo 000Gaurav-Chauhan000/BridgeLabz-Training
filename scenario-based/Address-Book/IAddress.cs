@@ -8,5 +8,6 @@ namespace Address_Book
         void AddContact();
         void EditExistingContact();
         void DisplayContacts();
+        void AddMultiplePersons();
     }
 }
