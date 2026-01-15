@@ -4,11 +4,12 @@ using System.Text;
 
 namespace Address_Book
 {
-    internal class AddressBookUtility
+    internal class AddressBookUtility : IAddress
     {
         Address[] addresses = new Address[10];
+        static int count = 0;
 
-        public void AddContact()
+        public void AddContact() //Adding a new Contact
         {
             Address address = new Address();
 
@@ -38,10 +39,42 @@ namespace Address_Book
                 if (addresses[i] == null)
                 {
                     addresses[i] = address;
+                    count++;
                     break;
                 }
             }
         }
+        public void EditExistingContact()
+        {
+            Console.WriteLine("Enter Contact Name :");
+            string contactName = Console.ReadLine();
+            for (int i = 0; i < addresses.Length; i++)
+            {
+                // updating the contact using name
+                if (addresses[i] != null && addresses[i].FirstName.Equals(contactName, StringComparison.OrdinalIgnoreCase))
+                {
+                    Console.WriteLine("Contact found. Enter new contact:");
+                    addresses[i].PhoneNumber = Console.ReadLine();
 
+                    Console.WriteLine("Contact updated successfully.");
+                    return;
+                }
+
+            }
+            Console.WriteLine("Contact not found.");
+        }
+        public void DisplayContacts() //Displaying Contacts
+        {
+            if (count == 0)
+            {
+                System.Console.WriteLine("No contacts available");
+                return;
+            }
+            for(int i = 0; i < count; i++)
+            {
+                Console.WriteLine(addresses[i]);
+            }
+            return;
+        }
     }
 }
