@@ -7,44 +7,49 @@ namespace Address_Book
 
             AddressBookUtility addressBookUtility = new AddressBookUtility();
 
-int choice;
+            int choice;
 
             do
             {
 
                 System.Console.WriteLine("============Address Book Menu============:");
-                System.Console.WriteLine("1. Add Contact");
-                System.Console.WriteLine("2. Dispaly contacts");
-                System.Console.WriteLine("3. Edit Existing by Name.");
-                System.Console.WriteLine("4. Exit.");
+                System.Console.WriteLine("1. Exit.");
+                System.Console.WriteLine("2. Add Contact");
+                System.Console.WriteLine("3. Dispaly contacts");
+                System.Console.WriteLine("4. Edit Existing by Name.");
+                System.Console.WriteLine("5. Delete an existing contact by Name.");
 
 
-               choice= Convert.ToInt32(Console.ReadLine());
+                choice = Convert.ToInt32(Console.ReadLine());
 
                 switch (choice)
                 {
                     case 1:
+                        return;   // exits menu
+
+                    case 2:
                         addressBookUtility.AddContact();//Adding a new Contact
                         break;
 
-                    case 2:
+                    case 3:
                         Console.WriteLine("Displaying Contacts");
                         addressBookUtility.DisplayContacts();
                         break;
 
-                    case 3:
+                    case 4:
                         addressBookUtility.EditExistingContact(); // Editing existing contact
                         break;
 
-                    case 4:
-                        return;   // exits menu
+                    case 5: addressBookUtility.DeleteContactByName();
+                    break;
+
 
                     default:
                         Console.WriteLine("Invalid Choice");
                         break;
-                }}
-            while (choice!=4);
-            
+                }
+            }
+            while (choice != 4);
         }
     }
 }

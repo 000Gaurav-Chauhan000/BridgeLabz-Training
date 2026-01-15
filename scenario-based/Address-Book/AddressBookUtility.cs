@@ -70,11 +70,50 @@ namespace Address_Book
                 System.Console.WriteLine("No contacts available");
                 return;
             }
-            for(int i = 0; i < count; i++)
+            for (int i = 0; i < count; i++)
             {
                 Console.WriteLine(addresses[i]);
             }
             return;
+        }
+
+        public void DeleteContactByName() // Deleting Contact
+        {
+            if (count == 0)
+            {
+                Console.WriteLine("No contacts to delete! ");
+            }
+            Console.Write("Enter name to delete: ");
+            string name = Console.ReadLine();
+
+            int index = -1;
+
+            // Finding contact index
+            for (int i = 0; i < count; i++)
+            {
+                if (addresses[i].FirstName.Equals(name, StringComparison.OrdinalIgnoreCase))
+                {
+                    index = i;
+                    break;
+                }
+            }
+
+            if (index == -1)
+            {
+                Console.WriteLine("Contact not found.");
+                return;
+            }
+
+            // Shifting elements left
+            for (int i = index; i < count - 1; i++)
+            {
+                addresses[i] = addresses[i + 1];
+            }
+
+            addresses[count - 1] = null; 
+            count--;
+
+            Console.WriteLine("Contact deleted successfully.");
         }
     }
 }
