@@ -393,3 +393,87 @@ Built confidence in handling real-world style questions
 * Gained a basic understanding of the linked list data structure
 * Learned differences between arrays and linked lists
 * Understood the high-level concept of nodes and dynamic memory allocation
+
+Day 16: Linear Data Structures & Hashing Basics 📦
+Date: 08 January 2026
+
+📚 Stack
+Introduction to stack data structure
+Understood LIFO (Last In, First Out) principle
+Common stack operations: push, pop, peek
+🚦 Queue
+Introduction to queue data structure
+Understood FIFO (First In, First Out) principle
+Basic queue operations: enqueue and dequeue
+🔐 HashMap & Hashing
+Introduction to HashMap and its use cases
+Understood the concept of a hashing function
+Learned how hashing enables fast data access
+📈 Learning Outcome
+Clear understanding of stack and queue behavior
+Basic knowledge of hashing and key-value storage
+Prepared for implementing and practicing these structures
+Day 17: Sorting Algorithms Fundamentals 🔢
+Date: 09 January 2026
+
+🔁 Bubble Sort
+Understood the basic idea behind Bubble Sort
+Learned how repeated swapping pushes larger elements to the end
+🧩 Insertion Sort
+Learned how Insertion Sort builds a sorted array incrementally
+Compared its performance with Bubble Sort
+🧱 Merge Sort
+Introduction to Merge Sort as a divide-and-conquer algorithm
+Understood how merging produces a sorted result
+⚡ Quick Sort
+Learned the core idea of Quick Sort using partitioning
+Discussed why Quick Sort is efficient in practice
+📈 Learning Outcome
+Clear understanding of multiple sorting approaches
+Ability to compare algorithms based on strategy and efficiency
+Foundation set for complexity analysis and optimization
+Day 18: String Optimization & Searching Techniques 🔍
+Date: 12 January 2026
+
+🧵 StringBuilder
+Introduction to StringBuilder and its purpose
+Understood how it improves performance over immutable strings
+Learned common operations for efficient string manipulation
+🔎 Linear Search
+Learned the working of Linear Search
+Understood its step-by-step element comparison approach
+Discussed use cases and limitations
+⚡ Binary Search
+Learned how Binary Search works on sorted data
+Understood its divide-and-conquer strategy
+Compared its efficiency with Linear Search
+📈 Learning Outcome
+Better understanding of efficient string handling
+Clear distinction between basic and optimized searching techniques
+Improved problem-solving approach using time complexity awareness
+Day 19: Runtime Analysis & Algorithm Efficiency 📈
+Date: 13 January 2026
+
+⏱️ Runtime Analysis
+Learned what runtime analysis is and why it matters
+Focused on evaluating algorithm performance independent of hardware
+📐 Big-O Notation
+Understood Big-O notation as a way to express growth rates
+Learned how it helps compare algorithm efficiency
+🧮 Time Complexity Analysis
+Analyzed how execution time grows with input size
+Identifying dominant operations in code
+💾 Space Complexity Analysis
+Learned how to measure memory usage of an algorithm
+Trade-offs between time and space efficiency
+📊 Best, Worst & Average Cases
+Understood how algorithms behave in different scenarios
+Importance of considering all cases during analysis
+🛠️ Practical Optimization Guidelines
+Writing efficient loops and avoiding unnecessary computations
+Choosing the right data structures
+Applying complexity awareness while writing C# code
+📈 Learning Outcome
+Strong foundation in analyzing and comparing algorithms
+Improved ability to write efficient and scalable C# code
+Better decision-making based on performance considerations
