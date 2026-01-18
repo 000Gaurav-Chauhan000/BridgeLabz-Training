@@ -9,5 +9,9 @@ namespace Address_Book
         void EditExistingContact();
         void DisplayContacts();
         void AddMultiplePersons();
+        void SearchPersonByCityOrState();
+        void ViewPersonsByCityOrState();
+        void CountPersonsByCityOrState();
+        void SortEntriesByPersonName();
     }
 }

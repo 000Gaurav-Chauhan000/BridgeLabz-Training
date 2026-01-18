@@ -53,6 +53,17 @@ namespace Address_Book
             Console.Write("Enter First Name: ");
             address.FirstName = Console.ReadLine();
 
+            //  checking duplicates by name
+            for (int i = 0; i < book.CurrentIndex; i++)
+            {
+                if (book.Addresses[i].FirstName
+                    .Equals(address.FirstName, StringComparison.OrdinalIgnoreCase))
+                {
+                    Console.WriteLine("Duplicate entry not allowed in this address book.");
+                    return;
+                }
+            }
+
             Console.Write("Enter Last Name: ");
             address.LastName = Console.ReadLine();
 
@@ -76,6 +87,7 @@ namespace Address_Book
 
             Console.WriteLine($"Contact added to '{book.BookName}'.");
         }
+
 
         public void DisplayContacts()
         {
@@ -149,5 +161,142 @@ namespace Address_Book
                 AddContact();
             }
         }
+        public void SearchPersonByCityOrState()
+        {
+            Console.Write("Enter City or State to search: ");
+            string searchKey = Console.ReadLine();
+
+            bool found = false;
+
+            for (int i = 0; i < AddressBookMain.AddressBookArrayIndex; i++)
+            {
+                AddressBook book = AddressBookMain.AddressBooks[i];
+
+                for (int j = 0; j < book.CurrentIndex; j++)
+                {
+                    Address address = book.Addresses[j];
+
+                    if (address.City.Equals(searchKey, StringComparison.OrdinalIgnoreCase) ||
+                        address.State.Equals(searchKey, StringComparison.OrdinalIgnoreCase))
+                    {
+                        if (!found)
+                        {
+                            Console.WriteLine("\n--- Search Results ---");
+                            found = true;
+                        }
+
+                        Console.WriteLine($"[{book.BookName}] {address.FirstName} {address.LastName}, " + $"{address.City}, {address.State}, {address.PhoneNumber}"
+                        );
+                    }
+                }
+            }
+            if (!found)
+            {
+                Console.WriteLine("No matching persons found.");
+            }
+        }
+        public void ViewPersonsByCityOrState()
+        {
+            Console.Write("Enter City or State: ");
+            string input = Console.ReadLine();
+
+            bool found = false;
+
+            for (int i = 0; i < AddressBookMain.AddressBookArrayIndex; i++)
+            {
+                AddressBook book = AddressBookMain.AddressBooks[i];
+
+                for (int j = 0; j < book.CurrentIndex; j++)
+                {
+                    Address address = book.Addresses[j];
+
+                    if (address.City.Equals(input, StringComparison.OrdinalIgnoreCase) ||
+                        address.State.Equals(input, StringComparison.OrdinalIgnoreCase))
+                    {
+                        if (!found)
+                        {
+                            Console.WriteLine($"\n--- Persons in {input} ---");
+                            found = true;
+                        }
+
+                        Console.WriteLine(
+                            $"{address.FirstName} {address.LastName} " +
+                            $"({book.BookName}) - {address.PhoneNumber}"
+                        );
+                    }
+                }
+            }
+            if (!found)
+            {
+                Console.WriteLine("No persons found for the given City/State.");
+            }
+        }
+        public void CountPersonsByCityOrState()
+        {
+            Console.Write("Enter City or State to count: ");
+            string input = Console.ReadLine();
+
+            int count = 0;
+
+            for (int i = 0; i < AddressBookMain.AddressBookArrayIndex; i++)
+            {
+                AddressBook book = AddressBookMain.AddressBooks[i];
+
+                for (int j = 0; j < book.CurrentIndex; j++)
+                {
+                    Address address = book.Addresses[j];
+
+                    if (address.City.Equals(input, StringComparison.OrdinalIgnoreCase) ||
+                        address.State.Equals(input, StringComparison.OrdinalIgnoreCase))
+                    {
+                        count++;
+                    }
+                }
+            }
+
+            Console.WriteLine($"Total number of contacts in '{input}' : {count}");
+        }
+        public void SortEntriesByPersonName()
+        {
+            AddressBook book = ResolveAddressBook();
+
+            if (book.CurrentIndex == 0)
+            {
+                Console.WriteLine("No contacts to sort.");
+                return;
+            }
+
+            // Create a temporary array for sorting
+            Address[] temp = new Address[book.CurrentIndex];
+
+            for (int i = 0; i < book.CurrentIndex; i++)
+            {
+                temp[i] = book.Addresses[i];
+            }
+
+            // Simple alphabetical sort (Bubble Sort)
+            for (int i = 0; i < temp.Length - 1; i++)
+            {
+                for (int j = 0; j < temp.Length - i - 1; j++)
+                {
+                    if (string.Compare(
+                            temp[j].FirstName,
+                            temp[j + 1].FirstName,
+                            StringComparison.OrdinalIgnoreCase) > 0)
+                    {
+                        Address swap = temp[j];
+                        temp[j] = temp[j + 1];
+                        temp[j + 1] = swap;
+                    }
+                }
+            }
+
+            Console.WriteLine($"\n--- Sorted Contacts in '{book.BookName}' ---");
+            for (int i = 0; i < temp.Length; i++)
+            {
+                Console.WriteLine(temp[i]);
+            }
+        }
+
     }
 }
